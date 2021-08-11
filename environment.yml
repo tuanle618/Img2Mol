@@ -1,0 +1,9 @@
+name: img2mol
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies: # tbd
+  -
