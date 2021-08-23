@@ -39,6 +39,7 @@ pip install .
 ```
 
 ## Examples
+Check the example notebook `example_inference.ipynb` to see how the inference class can be used.
 
 ## Reference
 Please cite our manuscript if you use our model in your work. **_tbd_**: add reference
